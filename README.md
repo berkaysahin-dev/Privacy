@@ -1,4 +1,5 @@
 Gizlilik Politikası
+
 Son Güncelleme Tarihi: 18 Haziran 2026
 
 ## Toplanan Veriler
