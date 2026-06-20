@@ -1,14 +1,9 @@
-# Yoldaş Gizlilik Politikası
-
+Gizlilik Politikası
 Son Güncelleme Tarihi: 18 Haziran 2026
-
-## Giriş
-
-Yoldaş, kullanıcıların odaklanmasına ve çalışma sürelerini takip etmesine yardımcı olmak amacıyla geliştirilmiş bir Pomodoro uygulamasıdır. Kullanıcı gizliliğine önem veriyoruz ve kişisel verilerinizi toplamamayı ilke ediniyoruz.
 
 ## Toplanan Veriler
 
-Yoldaş uygulaması:
+Shaz Vision;
 
 * Herhangi bir kişisel veri toplamaz.
 * Ad, soyad, e-posta adresi veya telefon numarası istemez.
