@@ -12,28 +12,6 @@ Shaz Vision;
 * Reklam kimliği toplamaz.
 * Analitik veya takip hizmetleri kullanmaz.
 
-## Yerel Veri Saklama
-
-Uygulama içerisinde oluşturulan çalışma süreleri, istatistikler ve ayarlar yalnızca kullanıcının cihazında yerel olarak saklanır.
-
-Bu veriler hiçbir sunucuya gönderilmez ve üçüncü taraflarla paylaşılmaz.
-
-## İnternet Bağlantısı
-
-Yoldaş uygulaması çalışmak için internet bağlantısına ihtiyaç duymaz.
-
-## Üçüncü Taraf Hizmetler
-
-Yoldaş uygulaması herhangi bir reklam ağı, analiz servisi veya kullanıcı takip sistemi kullanmaz.
-
-## Çocukların Gizliliği
-
-Yoldaş uygulaması her yaş grubundan kullanıcı tarafından kullanılabilir. Uygulama hiçbir kişisel veri toplamadığından çocuklara ait veriler de işlenmez.
-
-## Veri Güvenliği
-
-Uygulama verileri yalnızca kullanıcının cihazında saklanır. Geliştirici olarak bu verilere erişimimiz bulunmamaktadır.
-
 ## Değişiklikler
 
 Bu gizlilik politikası gerektiğinde güncellenebilir. Güncellemeler yayınlandığı tarihten itibaren geçerli olur.
@@ -42,4 +20,6 @@ Bu gizlilik politikası gerektiğinde güncellenebilir. Güncellemeler yayınlan
 
 Gizlilik politikası hakkında sorularınız için aşağıdaki e-posta adresinden iletişime geçebilirsiniz:
 
-E-posta: buraya kendi e-posta adresinizi yazın
+E-posta: iletisim@berkaysahin.net
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,html,css,flutter&perline=5" alt="Tech Stack" /> <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://www.svgrepo.com/show/473837/xcode.svg" width="48" height="48" alt="Xcode" /> </a>
