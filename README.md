@@ -1,7 +1,6 @@
 <div align="center">
 
 # Berkay Şahin
-**Frontend & Mobile Developer**
 
 *Crafting modern web and mobile applications.*
 
