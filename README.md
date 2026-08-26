@@ -13,11 +13,6 @@
 
 <br/>
 
-### About Me
-I am a dedicated software developer with a strong focus on creating seamless user experiences. With expertise spanning across modern web technologies and mobile app development, I build robust, scalable, and visually appealing applications. I am passionate about clean code, efficient architectures, and continuous learning.
-
-<br/>
-
 ### Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,12 +22,3 @@ I am a dedicated software developer with a strong focus on creating seamless use
 
 <br/>
 
-### GitHub Activity
-<p align="center">
-  <a href="https://github.com/berkaysahin-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=berkaysahin-dev&show_icons=true&hide_border=true&theme=transparent&title_color=0366d6&icon_color=0366d6&text_color=333333" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/berkaysahin-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaysahin-dev&layout=compact&hide_border=true&theme=transparent&title_color=0366d6&text_color=333333" alt="Top Languages" width="48%" />
-  </a>
-</p>
